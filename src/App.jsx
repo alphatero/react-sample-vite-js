@@ -1,10 +1,11 @@
 import './App.css'
+import { Week2 } from './components/Week2'
 
 function App() {
 
   return (
     <>
-      <p className='text-primary'>Vite</p>
+      <Week2 />
     </>
   )
 }
