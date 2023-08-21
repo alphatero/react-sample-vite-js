@@ -1,5 +1,5 @@
 import './App.css'
-import { Week2 } from './components/Week2'
+import { Week2 } from './pages/Week2'
 
 function App() {
 
